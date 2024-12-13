@@ -1,4 +1,5 @@
-﻿using Microsoft.Maui.Controls;
+﻿using MauiApp1.Pages;
+using Microsoft.Maui.Controls;
 
 namespace MauiApp1;
 

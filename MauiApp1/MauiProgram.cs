@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
+using MauiApp1.Pages;
 
 namespace MauiApp1
 {
